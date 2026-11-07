@@ -1,0 +1,8 @@
+{
+  "name": "slimmer-relay",
+  "private": true,
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "ws": "^8.18.0" }
+}

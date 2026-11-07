@@ -1,0 +1,16 @@
+.DS_Store
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/keystore/
+*.iml
+# macOS / Swift
+macos/.build/
+macos/build/
+macos/.swiftpm/
+# Relay
+relay/**/node_modules/
+relay/worker/.wrangler/
